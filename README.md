@@ -1,2 +1,2 @@
 # RaspberryRecord
-Record audio on the raspberry pi with the ALSA-lib. NEEDS EXTERNAL I2S-MICROPHONES
+Record audio on the raspberry pi utilizing the ALSA-lib. REQUIRES EXTERNAL I2S MICROPHONE(S)
